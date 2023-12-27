@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DWSs-MacBook-Pro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus14.actions.githubusercontent.com/S7366AQF8SMN835zCeJq9oNYDSOp2OHC6tAUa9DFyCWQkk0RMk/",
+  "gitHubUrl": "https://github.com/LalitDWS/testProject",
+  "workFolder": "_work"
+}

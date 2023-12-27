@@ -1,0 +1,220 @@
+[2023-12-27 07:39:11Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-27 07:39:11Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:11Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:11Z INFO HostContext] Well known config file 'Credentials': '/Users/palak/Documents/Lalit/testProject/actions-runner/.credentials'
+[2023-12-27 07:39:11Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:11Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:11Z INFO HostContext] Well known config file 'Runner': '/Users/palak/Documents/Lalit/testProject/actions-runner/.runner'
+[2023-12-27 07:39:12Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2023-12-27 07:39:12Z INFO Listener] RuntimeInformation: Darwin 22.4.0 Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:17 PST 2023; root:xnu-8796.101.5~3/RELEASE_X86_64.
+[2023-12-27 07:39:12Z INFO Listener] Version: 2.311.0
+[2023-12-27 07:39:12Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-27 07:39:12Z INFO Listener] Culture: en-US
+[2023-12-27 07:39:12Z INFO Listener] UI Culture: en-US
+[2023-12-27 07:39:12Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:12Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:12Z INFO Listener] Validating directory permissions for: '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:12Z INFO CommandLineParser] Parse
+[2023-12-27 07:39:12Z INFO CommandLineParser] Parsing 5 args
+[2023-12-27 07:39:12Z INFO CommandLineParser] parsing argument
+[2023-12-27 07:39:12Z INFO CommandLineParser] HasArgs: False
+[2023-12-27 07:39:12Z INFO CommandLineParser] Adding Command: configure
+[2023-12-27 07:39:12Z INFO CommandLineParser] parsing argument
+[2023-12-27 07:39:12Z INFO CommandLineParser] HasArgs: True
+[2023-12-27 07:39:12Z INFO CommandLineParser] arg: url
+[2023-12-27 07:39:12Z INFO CommandLineParser] parsing argument
+[2023-12-27 07:39:12Z INFO CommandLineParser] HasArgs: True
+[2023-12-27 07:39:12Z INFO CommandLineParser] Adding option 'url': 'https://github.com/LalitDWS/testProject'
+[2023-12-27 07:39:12Z INFO CommandLineParser] parsing argument
+[2023-12-27 07:39:12Z INFO CommandLineParser] HasArgs: True
+[2023-12-27 07:39:12Z INFO CommandLineParser] arg: token
+[2023-12-27 07:39:12Z INFO CommandLineParser] parsing argument
+[2023-12-27 07:39:12Z INFO CommandLineParser] HasArgs: True
+[2023-12-27 07:39:12Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-12-27 07:39:12Z INFO Listener] Arguments parsed
+[2023-12-27 07:39:13Z INFO Runner] ExecuteCommand
+[2023-12-27 07:39:13Z INFO ConfigurationStore] currentAssemblyLocation: /Users/palak/Documents/Lalit/testProject/actions-runner/bin/Runner.Listener.dll
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] binPath: /Users/palak/Documents/Lalit/testProject/actions-runner/bin
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] RootFolder: /Users/palak/Documents/Lalit/testProject/actions-runner
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:13Z INFO HostContext] Well known config file 'Runner': '/Users/palak/Documents/Lalit/testProject/actions-runner/.runner'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] ConfigFilePath: /Users/palak/Documents/Lalit/testProject/actions-runner/.runner
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:13Z INFO HostContext] Well known config file 'Credentials': '/Users/palak/Documents/Lalit/testProject/actions-runner/.credentials'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] CredFilePath: /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:13Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_migrated'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] MigratedCredFilePath: /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_migrated
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:13Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:13Z INFO HostContext] Well known config file 'Service': '/Users/palak/Documents/Lalit/testProject/actions-runner/.service'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/palak/Documents/Lalit/testProject/actions-runner/.service
+[2023-12-27 07:39:13Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-27 07:39:13Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-27 07:39:13Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-27 07:39:13Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-27 07:39:13Z INFO CommandSettings] Command 'configure': 'True'
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE: |                       
+[2023-12-27 07:39:13Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE:                         |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-27 07:39:13Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-27 07:39:13Z INFO ConfigurationManager] ConfigureAsync
+[2023-12-27 07:39:13Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-12-27 07:39:13Z INFO ConfigurationStore] IsConfigured()
+[2023-12-27 07:39:13Z INFO ConfigurationStore] IsConfigured: False
+[2023-12-27 07:39:13Z INFO ConfigurationManager] Is configured: False
+[2023-12-27 07:39:13Z INFO CommandSettings] Arg 'url': 'https://github.com/LalitDWS/testProject'
+[2023-12-27 07:39:13Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-12-27 07:39:13Z INFO CommandSettings] Arg 'token': '***'
+[2023-12-27 07:39:13Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-12-27 07:39:21Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (7874:24E8F9:761063:888B23:658BD4A8)
+[2023-12-27 07:39:21Z INFO ConfigurationManager] Using V2 flow: False
+[2023-12-27 07:39:21Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-12-27 07:39:21Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:21Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-27 07:39:22Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:22Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:22Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-27 07:39:22Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:22Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:22Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-27 07:39:22Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:24Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:24Z INFO ConfigurationManager] Test Connection complete.
+[2023-12-27 07:39:24Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:24Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:24Z INFO HostContext] Well known config file 'RSACredentials': '/Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams'
+[2023-12-27 07:39:24Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-12-27 07:39:24Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams
+[2023-12-27 07:39:24Z INFO RSAFileKeyManager] Which: 'chmod'
+[2023-12-27 07:39:24Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2023-12-27 07:39:25Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:25Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper] Starting process:
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Working directory: '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper] Process started with process id 71528, waiting for process exit.
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-27 07:39:25Z INFO ProcessInvokerWrapper] Finished process 71528 with exit code 0, and elapsed time 00:00:00.2861725.
+[2023-12-27 07:39:25Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams
+[2023-12-27 07:39:25Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-12-27 07:39:25Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-27 07:39:25Z INFO PromptManager] ReadValue
+[2023-12-27 07:39:25Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-12-27 07:39:25Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-12-27 07:39:25Z INFO Terminal] READ LINE
+[2023-12-27 07:39:34Z INFO Terminal] Read value: ''
+[2023-12-27 07:39:34Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-12-27 07:39:34Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:34Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-12-27 07:39:34Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-27 07:39:34Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-12-27 07:39:34Z INFO CommandSettings] Arg 'name': ''
+[2023-12-27 07:39:34Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-27 07:39:34Z INFO PromptManager] ReadValue
+[2023-12-27 07:39:34Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-12-27 07:39:34Z INFO Terminal] WRITE: [press Enter for DWSs-MacBook-Pro] 
+[2023-12-27 07:39:34Z INFO Terminal] READ LINE
+[2023-12-27 07:39:37Z INFO Terminal] Read value: ''
+[2023-12-27 07:39:37Z INFO PromptManager] Falling back to the default: 'DWSs-MacBook-Pro'
+[2023-12-27 07:39:37Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:37Z INFO CommandSettings] Arg 'labels': ''
+[2023-12-27 07:39:37Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-27 07:39:37Z INFO PromptManager] ReadValue
+[2023-12-27 07:39:37Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-12-27 07:39:37Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-12-27 07:39:37Z INFO Terminal] READ LINE
+[2023-12-27 07:39:40Z INFO Terminal] Read value: ''
+[2023-12-27 07:39:40Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:40Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-27 07:39:40Z INFO CommandSettings] Flag 'no-default-labels': 'False'
+[2023-12-27 07:39:41Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-27 07:39:41Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-12-27 07:39:41Z INFO ConfigurationStore] Saving OAuth credential @ /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials
+[2023-12-27 07:39:41Z INFO ConfigurationStore] Credentials Saved.
+[2023-12-27 07:39:41Z INFO ConfigurationStore] HasCredentials()
+[2023-12-27 07:39:41Z INFO ConfigurationStore] stored True
+[2023-12-27 07:39:41Z INFO CredentialManager] GetCredentialProvider
+[2023-12-27 07:39:41Z INFO CredentialManager] Creating type OAuth
+[2023-12-27 07:39:41Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-27 07:39:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams
+[2023-12-27 07:39:41Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:41Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-27 07:39:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:41Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-27 07:39:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:41Z INFO RunnerServer] EstablishVssConnection
+[2023-12-27 07:39:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-27 07:39:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-27 07:39:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-27 07:39:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams
+[2023-12-27 07:39:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/palak/Documents/Lalit/testProject/actions-runner/.credentials_rsaparams
+[2023-12-27 07:39:42Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-27 07:39:43Z INFO CommandSettings] Arg 'work': ''
+[2023-12-27 07:39:43Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-27 07:39:43Z INFO PromptManager] ReadValue
+[2023-12-27 07:39:43Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-12-27 07:39:43Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-12-27 07:39:43Z INFO Terminal] READ LINE
+[2023-12-27 07:39:45Z INFO Terminal] Read value: ''
+[2023-12-27 07:39:45Z INFO PromptManager] Falling back to the default: '_work'
+[2023-12-27 07:39:45Z INFO ConfigurationStore] Saving runner settings.
+[2023-12-27 07:39:45Z INFO ConfigurationStore] Settings Saved.
+[2023-12-27 07:39:45Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:45Z INFO Terminal] WRITE LINE: 
+[2023-12-27 07:39:45Z INFO OsxServiceControlManager] Service name 'actions.runner.LalitDWS-testProject.DWSs-MacBook-Pro' display name 'GitHub Actions Runner (LalitDWS-testProject.DWSs-MacBook-Pro)' will be used for service configuration.
+[2023-12-27 07:39:45Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:45Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:45Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:45Z INFO HostContext] Well known directory 'Bin': '/Users/palak/Documents/Lalit/testProject/actions-runner/bin'
+[2023-12-27 07:39:45Z INFO HostContext] Well known directory 'Root': '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:45Z INFO UnixUtil] Which: 'chmod'
+[2023-12-27 07:39:45Z INFO UnixUtil] Location: '/bin/chmod'
+[2023-12-27 07:39:45Z INFO UnixUtil] Running /bin/chmod 755 "/Users/palak/Documents/Lalit/testProject/actions-runner/svc.sh"
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper] Starting process:
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/palak/Documents/Lalit/testProject/actions-runner/svc.sh"'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Working directory: '/Users/palak/Documents/Lalit/testProject/actions-runner'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper] Process started with process id 71583, waiting for process exit.
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-27 07:39:45Z INFO ProcessInvokerWrapper] Finished process 71583 with exit code 0, and elapsed time 00:00:00.0131560.
+[2023-12-27 07:39:45Z INFO Listener] Runner execution has finished with return code 0
